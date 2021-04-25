@@ -1,0 +1,30 @@
+.para1{
+    border-radius: 20px;
+    background-color: rgb(192, 240, 60);
+    text-align: center;
+}
+.para2{
+    border-radius: 20px;
+    background-color: rgb(192, 240, 60);
+    text-align: center;
+}
+.menu{
+    background-color: rgb(17, 0, 255);
+    color: white;
+}
+#body{
+    background-color: black;
+}
+.submit{
+    background-color: rgb(119, 255, 7);
+}
+.title{
+    font-style: italic;
+    text-decoration: wavy;
+}
+.display1{
+    color: white;
+    height: 500px;
+    width: 10000px;
+
+}
